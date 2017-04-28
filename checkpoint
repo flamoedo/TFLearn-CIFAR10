@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Flavio\\Desktop\\machine-learning\\cifar10.tflearn"
+all_model_checkpoint_paths: "C:\\Users\\Flavio\\Desktop\\machine-learning\\cifar10.tflearn"
